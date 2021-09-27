@@ -3,4 +3,8 @@
     <string name="enter_password">enter password</string>
     <string name="enter_email">enter email</string>
     <string name="login">LOGIN</string>
+    <string name="wrongEmail">Wrong Email</string>
+    <string name="user_information">USER INFORMATION</string>
+    <string name="email_info">Email = </string>
+    <string name="password_info">Password = </string>
 </resources>
