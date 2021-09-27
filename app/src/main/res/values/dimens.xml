@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <dimen name="inputHeight"  > 60dp </dimen>
+    <dimen name="inputHeight">60dp</dimen>
 
-
+    <dimen name="textPadding">15dp</dimen>
+    <dimen name="margin">20dp</dimen>
 
 </resources>
