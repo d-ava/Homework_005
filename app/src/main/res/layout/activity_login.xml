@@ -26,7 +26,7 @@
 
         android:paddingStart="@dimen/textPadding"
         android:textAlignment="center"
-        android:textColor="@color/orange"
+        android:textColor="@color/almostBlack"
         android:text="@string/user_information"
         android:textSize="20sp"
         android:textStyle="bold"
